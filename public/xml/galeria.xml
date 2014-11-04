@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<galeria>
+    <exposicion>Invasión Francesa</exposicion>
+    <museo>Museo de las Intervenciones</museo>
+    
+    <item id="1">
+        <nombre>Batalla</nombre>
+        <url>muestra/images/item1.jpg</url>
+        <tipo>imagen</tipo>
+    </item>
+    
+    <item id="2">
+        <nombre>Batalla</nombre>
+        <url>muestra/images/item2.jpg</url>
+        <tipo>imagen</tipo>
+    </item>
+    
+    <item id="3">
+        <nombre>Batalla</nombre>
+        <url>muestra/images/item3.jpg</url>
+        <tipo>imagen</tipo>
+    </item>
+    
+    <item id="4">
+        <nombre>Batalla</nombre>
+        <url>muestra/images/item1.jpg</url>
+        <video>https://www.youtube.com/watch?v=7EMyIjBjA5M</video>
+        <tipo>video</tipo>
+    </item>
+    
+    <item id="5">
+        <nombre>Batalla</nombre>
+        <url>muestra/images/item3.jpg</url>
+        <video>https://www.youtube.com/watch?v=r6C6q67htMY</video>
+        <tipo>video</tipo>
+    </item>
+    
+</galeria>

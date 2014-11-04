@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articulos>
+    <exposicion>Invasión Francesa</exposicion>
+    <museo>Museo de las Intervenciones</museo>
+    
+    <articulo id="1">
+        <nombre>Primera Intervención Francesa en México</nombre>
+        <info>La Primera Intervención francesa en México, también conocida como
+            Guerra de los Pasteles, fue el primer conflicto bélico entre México y Francia.
+            Tuvo lugar del 16 de abril de 1838 al 9 de marzo de 1839.
+        </info>
+    </articulo>
+    
+    <articulo id="2">
+        <nombre>Segundo Imperio Mexicano</nombre>
+        <info>
+            El Segundo Imperio Mexicano es el nombre del estado gobernado 
+            por Maximiliano de Habsburgo como Emperador de México, formado 
+            a partir de la segunda intervención francesa en México entre 1863 y 1867
+        </info>
+    </articulo>
+    
+    <articulo id="3">
+        <nombre>Intervención francesa en Tabasco</nombre>
+        <info>
+            Se denomina intervención francesa en Tabasco al conjunto de campañas
+            militares que como resultado de la invasión por parte del ejército
+            francés en México, se desarrollaron en el estado de Tabasco entre 
+            junio de 1863 y agosto de 1866
+        </info>
+    </articulo>
+    
+    <articulo id="4">
+        <nombre>Historia de México (Época Independiente)</nombre>
+        <info>
+            Tras las revueltas independentistas iniciadas a principios del siglo XIX 
+            hasta culminar en el año de 1821, la Nueva España se separó del control 
+            de España para pasar el control administrativo y material a los "criollos" 
+            (españoles nacidos en la Nueva España), evento que se logró a partir de 
+            la guerra independentista de 1810 hasta 1821, movimiento que fue iniciado 
+            por Miguel Hidalgo y Costilla y continuado por otros insurgentes. 
+            Durante el transcurso del siglo XIX el país fue sujeto de constantes 
+            revueltas y levantamientos destinados a obtener el control y el poder
+            administrativo. Facciones que disputaban intereses eclesiásticos, 
+            conflictos territoriales, nuevas formas de gobierno, e invasiones de 
+            países extranjeros dejaron agotados los recursos con los que contaba el 
+            país haciendo que la nueva nación emergente tardara en perfilarse
+        </info>
+    </articulo>
+    
+</articulos>

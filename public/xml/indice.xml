@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indice>
+    <exposicion>Invasión Francesa</exposicion>
+    <museo>Museo de las Intervenciones</museo>
+    <elemento id="1" nombre="Elemento 1 de indice">
+        <subelemento id="1" nombre="Subelemento 1.1"/>
+        <subelemento id="2" nombre="Subelemento 1.2"/>
+    </elemento>
+    
+    <elemento id="2" nombre="Elemento 2 de indice">
+        <subelemento id="1" nombre="Subelemento 2.1"/>
+        <subelemento id="2" nombre="Subelemento 2.2"/>
+    </elemento>
+    
+    <elemento id="1" nombre="Elemento 3 de indice">
+        <subelemento id="1" nombre="Subelemento 3.1"/>
+        <subelemento id="2" nombre="Subelemento 3.2"/>
+    </elemento>
+</indice>

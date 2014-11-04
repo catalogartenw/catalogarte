@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notas>
+
+    <exposicion>Invasión Francesa</exposicion>
+    <museo>Museo de las Intervenciones</museo>
+    
+    <imagen>muestra/images/notas.jpg</imagen>
+    
+    <info id="1">
+        Sala de intervención francesa o Guerra de 
+        los pasteles, de 1838 y 1839. Se expone la forma 
+        en que ese país europeo trató de imponer un 
+        tratado comercial desventajoso para México y la 
+        forma que utilizó la presencia de su armada en 
+        aguas de Veracruz. De igual forma, la capacidad 
+        de negociación de los mexicanos para resolver 
+        el conflicto, a través del derecho internacional.
+    </info>
+    
+    <info id="2">
+        Sala de la intervención francesa de 1862 a 1867. Se hace hincapié en la lucha 
+        liberal y conservadora que hizo posible la presencia armada de las potencias 
+        acreedoras y después, la intervención formal de las fuerzas francesas, que 
+        invadieron la mayor parte de nuestro país. Se destaca la figura del Presidente 
+        Benito Juárez, como un símbolo de la defensa de la soberanía nacional.
+
+        La pretensión de los franceses era imponer un protectorado en México, a cargo 
+        de un príncipe europeo, pero existió resistencia a cargo de los republicanos 
+        sustentado en contingentes populares. La suma de lo anterior y de las condiciones 
+        que impidieron la supervivencia del segundo imperio, determinó el triunfo 
+        de la República.
+    </info>
+    
+</notas>
